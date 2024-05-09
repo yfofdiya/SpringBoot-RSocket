@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: employee-client
+rsocket:
+  port: 9000
+server:
+  port: 8081
